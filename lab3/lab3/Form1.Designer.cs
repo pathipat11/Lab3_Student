@@ -60,6 +60,7 @@
             // 
             // textBoxName
             // 
+            this.textBoxName.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxName.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxName.Location = new System.Drawing.Point(119, 43);
             this.textBoxName.Name = "textBoxName";
@@ -68,6 +69,7 @@
             // 
             // textBoxBirth
             // 
+            this.textBoxBirth.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxBirth.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxBirth.Location = new System.Drawing.Point(119, 117);
             this.textBoxBirth.Name = "textBoxBirth";
@@ -106,6 +108,7 @@
             // 
             // textBoxId
             // 
+            this.textBoxId.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxId.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxId.Location = new System.Drawing.Point(119, 80);
             this.textBoxId.Name = "textBoxId";
@@ -114,6 +117,7 @@
             // 
             // textBoxHeight
             // 
+            this.textBoxHeight.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxHeight.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxHeight.Location = new System.Drawing.Point(119, 157);
             this.textBoxHeight.Name = "textBoxHeight";
@@ -122,6 +126,7 @@
             // 
             // textBoxFaclty
             // 
+            this.textBoxFaclty.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxFaclty.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxFaclty.Location = new System.Drawing.Point(119, 231);
             this.textBoxFaclty.Name = "textBoxFaclty";
@@ -130,6 +135,7 @@
             // 
             // textBoxGrade
             // 
+            this.textBoxGrade.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxGrade.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxGrade.Location = new System.Drawing.Point(119, 194);
             this.textBoxGrade.Name = "textBoxGrade";
@@ -192,6 +198,7 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.RosyBrown;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Name,
@@ -273,6 +280,7 @@
             // 
             // textBoxMax
             // 
+            this.textBoxMax.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxMax.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxMax.Location = new System.Drawing.Point(527, 408);
             this.textBoxMax.Name = "textBoxMax";
@@ -291,6 +299,7 @@
             // 
             // textBoxMin
             // 
+            this.textBoxMin.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxMin.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxMin.Location = new System.Drawing.Point(810, 408);
             this.textBoxMin.Name = "textBoxMin";
@@ -299,6 +308,7 @@
             // 
             // textBoxPeople
             // 
+            this.textBoxPeople.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.textBoxPeople.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.textBoxPeople.Location = new System.Drawing.Point(1066, 408);
             this.textBoxPeople.Name = "textBoxPeople";
